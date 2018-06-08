@@ -1,4 +1,4 @@
-# Lidija.vim
+# Lydia.vim
 
 Syntax highlighting for my toy language.
 

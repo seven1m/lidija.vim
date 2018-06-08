@@ -1,5 +1,5 @@
 " Vim syntax file
-" Language: Lidija
+" Language: Lydia
 " Author: Tim Morgan <tim@timmorgan.org>
 
 if exists("b:current_syntax")
@@ -28,4 +28,4 @@ highlight link lidOp Statement
 highlight link lidNum Number
 highlight link lidString String
 
-let b:current_syntax = "lidija"
+let b:current_syntax = "lydia"
